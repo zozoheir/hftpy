@@ -1,9 +1,16 @@
-### A scalable implementation of online transforms and order book feature extraction
+## What is HFTPY
+
+This repository will include all kinds of tools and code I have built and optimized over the years. It is the tip of an icerberg, as this code is resulting from many iterations and algos built in high frequency trading/market-making.
+
+#### Code speed and efficiency
+
+Not everything needs to be C++, as I have seen many successful and profitable algos built in Python over the years. Optimizing code and hardware is a centralized game for the likes of Jump, Citadel, XTX etc...and you should get into it only after milking out all alpha and potential PnL from alpha/statistical model, algo and code design.
+Long story short, early in building the highest ROI on time comes from other pieces of your trading system, not code speed and gaining millis or nanos here and there with C++ or else.  
+
+
+#### A scalable implementation of online transforms and order book feature extraction
 
 This is a simple and scalable implementation of 2 critical components of algo trading: the order book and exponential moving averages. This implementation illustrates the benefit for understanding of tech+quant+trading aspects while developing algo trading frameworks.
-
-
-
 
 
 #### Features:
