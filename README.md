@@ -1,4 +1,4 @@
-## What is HFTPY
+## What is hftpy
 
 This repository will include all kinds of tools and code I have built and optimized over the years. It is the tip of an icerberg, as this code is resulting from many iterations and algos built in high frequency trading/market-making.
 
