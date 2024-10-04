@@ -33,7 +33,8 @@ setup(
     url='',
     install_requires=[
         'numpy',
-        'pandas'
+        'pandas',
+        'cython',
     ],
     ext_modules=cythonize(extensions)
 )
