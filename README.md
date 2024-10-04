@@ -49,3 +49,8 @@ image below shows that at the 100th tick, the EMA finished warming up and turned
 
 ![](docs/result_print.png)
 
+### Cythonize the code
+
+```
+python setup.py build_ext --inplace
+```
