@@ -32,9 +32,6 @@ setup(
     author_email='othmane@rumorz.io',
     url='',
     install_requires=[
-        'numpy',
-        'pandas',
-        'cython',
     ],
     ext_modules=cythonize(extensions)
 )
